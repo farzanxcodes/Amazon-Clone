@@ -50,6 +50,10 @@ B.Tech CSE Student | Aspiring Software Engineer
 
 ---
 
+## 🌐 Live Demo
+
+Visit Website: https://farzanxcodes.github.io/Amazon-Clone/
+
 ⭐ If you like this project, feel free to explore the repository!
 
 *This is a personal educational project inspired by Amazon's website design. It is not affiliated with Amazon.*
